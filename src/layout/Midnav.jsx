@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 
 
-const MidNav = ({ activeTab, handleClick }) => {
+export const MidNav = ({ activeTab, handleClick }) => {
   return (
     <main>
       <nav className="flex justify-center items-center space-x-10 mt-10">

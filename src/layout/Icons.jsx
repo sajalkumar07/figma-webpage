@@ -6,7 +6,7 @@ import {faCircleChevronRight} from '@fortawesome/free-solid-svg-icons'
 import {faCircleChevronLeft} from '@fortawesome/free-solid-svg-icons'
 import '../styles/Icon.css'
 
-const icons = () => {
+const Icons = () => {
   return (
     <div>
       <div className="icon-container">
@@ -19,4 +19,4 @@ const icons = () => {
   )
 }
 
-export default icons
+export default Icons
