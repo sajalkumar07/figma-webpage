@@ -19,7 +19,7 @@ const CardFlip = () => {
             <i><FontAwesomeIcon icon={faLightbulb} /></i>
             <i><FontAwesomeIcon icon={faVolumeHigh} /></i>
           </div>
-          {/* Front content */}
+          
           <p>Front</p>
         </div>
         <div className="card-face back">
@@ -27,7 +27,7 @@ const CardFlip = () => {
             <i><FontAwesomeIcon icon={faLightbulb} /></i>
             <i><FontAwesomeIcon icon={faVolumeHigh} /></i>
           </div>
-          {/* Back content */}
+          
           <p>Back</p>
         </div>
       </div>
