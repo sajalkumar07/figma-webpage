@@ -13,7 +13,7 @@ const icons = () => {
             <i><FontAwesomeIcon icon={faRotateRight}/></i>
             <i><FontAwesomeIcon icon={faCircleChevronLeft}/></i>
             <i><FontAwesomeIcon icon={faCircleChevronRight}/></i>
-            <i><FontAwesomeIcon icon={faExpand}/> </i>
+            <i><FontAwesomeIcon icon={faExpand}/></i>
       </div>
     </div>
   )

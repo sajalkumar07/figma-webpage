@@ -1,15 +1,15 @@
 .icon-container {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    height: 100vh;
-    text-align: center;
-    width: 50%;
-    margin: 20px 0 0 398px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  text-align: center;
+  width: 50%;
+  margin: 20px 0 0 398px;
     
   }
   
 .icon-container i {
-    font-size: 30px;
-    padding: 55px;
+  font-size: 30px;
+  padding: 55px;
 }
